@@ -1,6 +1,6 @@
 Overview
 ============
-A project that trains a Hidden Markov Model over a dataset of rap song lyrics. You can generate a rap using a single word as the starting point. This the code for 'Generate Rap Lyrics' on [Youtube](https://youtu.be/yE0dcDNRZjw)
+A project that trains a Hidden Markov Model over a dataset of rap song lyrics. You can generate a rap using a single word as the starting point. 
 
 Dependencies
 ============
@@ -17,6 +17,3 @@ Once you've downloaded the repository simply type the following into terminal
 
 Replace 'some_word_goes_here' with a word of your choosing. The rap will be generated from your word.
 
-Credits
-===========
-Credit for the vast majority of code here goes to [Ted Xiao](https://github.com/txizzle/Markov_Rap_Generator). I've merely created a wrapper around all of the important functions to get people started.
